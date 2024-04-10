@@ -15,7 +15,7 @@ class Employee {
     double salary;
 public:
     Employee() : name(""), date(""), position(""), salary(0.0) {}
-    Employee(string name, string date, string position, double salary) : name(move(name)), date(move(date)), position(move(position)), salary(salary) {}
+    Employee(string name, string date, string position, double salary) : name((name), date((date), position((position), salary(salary) {}
     friend ostream& operator<<(ostream& os, const Employee& employee) {
         os << "Name: " << employee.name << ", Hire date: " << employee.date << ", Position: " << employee.position << ", Salary: " << employee.salary;
         return os;
@@ -51,7 +51,7 @@ int main() {
         return false;
     }
     for (const auto& employee : employees) {
-        file_2 << employee << endl;
+        fi    le_2 << employee << endl;
     }
     for (const auto& employee : employee_deque) {
       file_2 << employee << endl;
