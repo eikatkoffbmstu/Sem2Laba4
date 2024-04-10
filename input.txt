@@ -1,0 +1,3 @@
+Vasya 01.01.2020 Manager 500.0
+Petya 08.03.2018 Engineer 600.0
+Kolya 23.02.2019 Director 510.0
