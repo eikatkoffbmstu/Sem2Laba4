@@ -1,0 +1,6 @@
+Name: Petya, Hire date: 08.03.2018, Position: Engineer, Salary: 600
+Name: Kolya, Hire date: 23.02.2019, Position: Director, Salary: 510
+Name: Vasya, Hire date: 01.01.2020, Position: Manager, Salary: 500
+Name: Petya, Hire date: 08.03.2018, Position: Engineer, Salary: 600
+Name: Kolya, Hire date: 23.02.2019, Position: Director, Salary: 510
+Name: Vasya, Hire date: 01.01.2020, Position: Manager, Salary: 500
